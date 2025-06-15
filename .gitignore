@@ -1,3 +1,5 @@
 .DS_Store
 data
 output
+train_test_set
+Xy
