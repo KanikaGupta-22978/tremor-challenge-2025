@@ -18,8 +18,7 @@ This repository presents a baseline deep learning model using LSTM (Long Short-T
 
 ## 🧠 Project Objective
 
-To build a baseline LSTM model for detecting or forecasting tremor-related behavior from multivariate time-series data. This is a collaborative research project conducted under the guidance of an **Assistant Professor from Kyushu Institute of Technology (Kyutech), Japan**.
-
+To build a baseline LSTM model for detecting or forecasting tremor-related behavior from multivariate time-series data.
 ---
 
 ## 🚀 How to Run
